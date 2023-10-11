@@ -1,0 +1,17 @@
+E:\Projects\Bazaarr\Bazaarr.Service\bin\Debug\net7.0\Bazaarr.Service.deps.json
+E:\Projects\Bazaarr\Bazaarr.Service\bin\Debug\net7.0\Bazaarr.Service.dll
+E:\Projects\Bazaarr\Bazaarr.Service\bin\Debug\net7.0\Bazaarr.Service.pdb
+E:\Projects\Bazaarr\Bazaarr.Service\obj\Debug\net7.0\Bazaarr.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Bazaarr\Bazaarr.Service\obj\Debug\net7.0\Bazaarr.Service.AssemblyInfoInputs.cache
+E:\Projects\Bazaarr\Bazaarr.Service\obj\Debug\net7.0\Bazaarr.Service.AssemblyInfo.cs
+E:\Projects\Bazaarr\Bazaarr.Service\obj\Debug\net7.0\Bazaarr.Service.csproj.CoreCompileInputs.cache
+E:\Projects\Bazaarr\Bazaarr.Service\obj\Debug\net7.0\Bazaarr.Service.dll
+E:\Projects\Bazaarr\Bazaarr.Service\obj\Debug\net7.0\refint\Bazaarr.Service.dll
+E:\Projects\Bazaarr\Bazaarr.Service\obj\Debug\net7.0\Bazaarr.Service.pdb
+E:\Projects\Bazaarr\Bazaarr.Service\obj\Debug\net7.0\ref\Bazaarr.Service.dll
+E:\Projects\Bazaarr\Bazaarr.Service\obj\Debug\net7.0\Bazaarr.Service.csproj.AssemblyReference.cache
+E:\Projects\Bazaarr\Bazaarr.Service\bin\Debug\net7.0\Bazaarr.Data.dll
+E:\Projects\Bazaarr\Bazaarr.Service\bin\Debug\net7.0\Bazaarr.Domain.dll
+E:\Projects\Bazaarr\Bazaarr.Service\bin\Debug\net7.0\Bazaarr.Data.pdb
+E:\Projects\Bazaarr\Bazaarr.Service\bin\Debug\net7.0\Bazaarr.Domain.pdb
+E:\Projects\Bazaarr\Bazaarr.Service\obj\Debug\net7.0\Bazaarr.Service.csproj.CopyComplete

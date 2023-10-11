@@ -1,0 +1,14 @@
+E:\Projects\Bazaarr\Bazaarr.Domain\bin\Debug\net7.0\Bazaarr.Domain.deps.json
+E:\Projects\Bazaarr\Bazaarr.Domain\bin\Debug\net7.0\Bazaarr.Domain.runtimeconfig.json
+E:\Projects\Bazaarr\Bazaarr.Domain\bin\Debug\net7.0\Bazaarr.Domain.dll
+E:\Projects\Bazaarr\Bazaarr.Domain\bin\Debug\net7.0\Bazaarr.Domain.pdb
+E:\Projects\Bazaarr\Bazaarr.Domain\obj\Debug\net7.0\Bazaarr.Domain.csproj.AssemblyReference.cache
+E:\Projects\Bazaarr\Bazaarr.Domain\obj\Debug\net7.0\Bazaarr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Bazaarr\Bazaarr.Domain\obj\Debug\net7.0\Bazaarr.Domain.AssemblyInfoInputs.cache
+E:\Projects\Bazaarr\Bazaarr.Domain\obj\Debug\net7.0\Bazaarr.Domain.AssemblyInfo.cs
+E:\Projects\Bazaarr\Bazaarr.Domain\obj\Debug\net7.0\Bazaarr.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\Bazaarr\Bazaarr.Domain\obj\Debug\net7.0\Bazaarr.Domain.dll
+E:\Projects\Bazaarr\Bazaarr.Domain\obj\Debug\net7.0\refint\Bazaarr.Domain.dll
+E:\Projects\Bazaarr\Bazaarr.Domain\obj\Debug\net7.0\Bazaarr.Domain.pdb
+E:\Projects\Bazaarr\Bazaarr.Domain\obj\Debug\net7.0\Bazaarr.Domain.genruntimeconfig.cache
+E:\Projects\Bazaarr\Bazaarr.Domain\obj\Debug\net7.0\ref\Bazaarr.Domain.dll
